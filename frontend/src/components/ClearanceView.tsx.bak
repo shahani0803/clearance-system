@@ -1,0 +1,81 @@
+Created At: 2026-05-26T13:32:00Z
+Completed At: 2026-05-26T13:32:00Z
+File Path: `file:///c:/Users/demes/OneDrive/Desktop/CLEARANCE%20SYSTEM/frontend/src/components/ClearanceView.tsx`
+Total Lines: 548
+Total Bytes: 27950
+Showing lines 1 to 548
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+import React, { useState, useCallback } from 'react';
+import { Student } from '../Types';
+import { api } from '../api';
+import ReceiptModal from './ReceiptModal';
+import PaymentReceiptModal from './PaymentReceiptModal';
+
+interface ClearanceViewProps {
+  students: Student[];
+  onUpdateStatus: (studentId: string, status: any) => void;
+  onRefresh: () => Promise<void>;
+}
+
+// ─── Status badge helper ─────────────────────────────────────────────────────
+const StatusBadge = ({ status }: { status: string }) => {
+  const map: Record<string, { label: string; cls: string }> = {
+    active:    { label: 'Unpaid',          cls: 'bg-rose-100 text-rose-600 border-rose-200' },
+    pending:   { label: '⏳ Awaiting Approval', cls: 'bg-amber-100 text-amber-700 border-amber-200' },
+    approved:  { label: '✓ Approved',      cls: 'bg-emerald-100 text-emerald-700 border-emerald-200' },
+    collected: { label: '✓ Collected',     cls: 'bg-blue-100 text-blue-700 border-blue-200' },
+  };
+  const s = map[status] || { label: status, cls: 'bg-slate-100 text-slate-500 border-slate-200' };
+  return (
+    <span className={`inline-flex items-center text-[9px] font-black uppercase tracking-wide px-2 py-0.5 rounded-full border ${s.cls}`}>
+      {s.label}
+    </span>
+  );
+};
+
+// ─── Fine row for a single active fine ───────────
+<truncated 27052 bytes>
+         student={{
+                      name: paymentModal.student.name || 'No Name',
+                      studentId: paymentModal.student.studentId,
+                      organization: paymentModal.student.organization,
+                      year: paymentModal.student.year
+                    }}
+                    studentIndex={filteredStudents.indexOf(paymentModal.student)}
+                    fineIndex={fineIndex}
+                    isOpen={!!paymentModal}
+                    onClose={() => setPaymentModal(null)}
+                    onSuccess={() => {
+                      setNotification({ msg: '✅ Payment processed and saved to collections!', type: 'success' });
+                      onRefresh();
+                    }}
+                  />
+                );
+              }
+              return null;
+            })()
+          ) : (
+            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
+              <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center space-y-4">
+                <p className="text-2xl">ℹ️</p>
+                <h3 className="text-lg font-black text-slate-800">No Unpaid Fines</h3>
+                <p className="text-sm text-slate-600">
+                  This student doesn't have any unpaid fines to process at the moment.
+                </p>
+                <button
+                  onClick={() => setPaymentModal(null)}
+                  className="w-full px-4 py-3 bg-blue-600 text-white font-bold rounded-xl hover:bg-blue-700 transition-colors"
+                >
+                  Close
+                </button>
+              </div>
+            </div>
+          )}
+        </>
+      )}
+    </div>
+  );
+};
+
+export default ClearanceView;
+The above content shows the entire, complete file contents of the requested file.

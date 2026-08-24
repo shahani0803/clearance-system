@@ -1,0 +1,504 @@
+
+[2026-05-26T16:12:10.488Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-05-26T16:12:14.174Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-05-26T16:12:21.039Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-05-26T16:12:24.911Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-05-27T04:14:56.056Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-05-27T04:15:00.688Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-05-27T04:23:57.147Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-05-27T04:24:00.741Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T03:16:48.990Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T03:16:54.526Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T03:16:59.054Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T03:17:02.505Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T03:17:33.328Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T03:17:36.715Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T03:17:40.409Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T03:17:44.081Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T03:27:12.293Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T03:27:16.080Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T03:27:19.356Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T03:27:23.045Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T03:28:00.520Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T03:35:51.964Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T03:35:55.816Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T03:35:59.500Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T03:36:03.752Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T03:36:07.643Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T03:54:56.573Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T03:55:01.080Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:01:55.590Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:01:58.867Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:10:05.215Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:10:08.541Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:10:11.736Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:10:15.090Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:15:56.487Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:16:00.173Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:16:03.395Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:16:06.727Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:16:10.209Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:22:39.529Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:22:42.946Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:22:46.698Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:22:49.944Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:22:53.250Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:23:16.802Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:23:20.081Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:23:23.334Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:23:26.655Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:23:30.120Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:25:49.786Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:25:53.014Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:25:56.232Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:25:59.616Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:26:02.892Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:26:06.169Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T04:26:09.447Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T04:26:12.725Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:26:15.989Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:26:19.228Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:26:22.455Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:26:25.935Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:42:57.466Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:43:01.146Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:43:04.423Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:43:07.908Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:43:11.125Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:43:14.458Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:43:17.719Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:43:21.012Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:43:24.286Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:43:27.529Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:43:30.845Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T04:43:42.520Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T04:43:46.004Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T04:43:49.481Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:43:52.960Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:43:56.223Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T04:44:00.740Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T04:44:04.227Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T04:44:07.475Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T05:03:18.266Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T05:03:22.152Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T05:03:25.426Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T05:03:28.904Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T05:03:32.200Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T05:03:35.460Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T05:03:38.697Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T05:03:42.014Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T05:03:45.289Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T05:03:48.519Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T05:03:51.841Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T05:06:51.278Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T05:06:54.932Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T05:06:58.465Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T05:07:01.709Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T05:11:17.341Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T05:11:20.965Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T05:11:24.249Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T05:11:27.489Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T05:11:30.880Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T05:11:34.276Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T05:11:37.554Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T05:11:40.890Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T05:11:44.118Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T05:11:47.639Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T05:12:13.187Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T05:37:48.609Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T05:37:53.893Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T06:56:33.376Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T06:56:36.903Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T06:56:40.254Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T06:56:43.483Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T06:56:48.241Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T06:56:51.473Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T06:56:54.795Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T06:56:58.031Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}
+
+[2026-06-02T06:57:01.562Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T06:57:05.238Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T06:57:09.130Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T06:57:14.245Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T07:43:11.234Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"318AFA05"}
+
+[2026-06-02T07:50:51.414Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"68899DE7"}
+
+[2026-06-02T07:50:54.947Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"B68625B8"}
+
+[2026-06-02T07:50:58.583Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"DB1AEFC0"}
+
+[2026-06-02T07:51:03.292Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"C63BC6B6"}
+
+[2026-06-02T07:55:17.447Z] SCAN REQ: POST /api/scan
+Headers: {"host":"campussync.local:5001","user-agent":"ESP32HTTPClient","connection":"keep-alive","accept-encoding":"identity;q=1,chunked;q=0.1,*;q=0","content-type":"application/json","content-length":"22"}
+Body: {"rfidUid":"BD8D7706"}

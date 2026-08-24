@@ -1,0 +1,8 @@
+
+{
+  "name": "MERN RFID Clearance System",
+  "description": "Full-stack student management system using MongoDB, Express, React, and Node.js with ESP32 integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
